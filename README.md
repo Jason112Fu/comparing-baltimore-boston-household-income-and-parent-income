@@ -1,6 +1,6 @@
 # comparing-baltimore-boston-household-income-and-parent-income
 Description: 
-In Baltimore, Children with higher parent incomes tend to have higher household incomes when grown up. However, there is no significant correlation between household incomes and parent incomes. Hence, Boston has better social mobility than Baltimore.
+In Baltimore, Children with higher parent incomes tend to have higher household incomes when grown up. However, there is no significant correlation between household incomes and parent incomes in Boston. Hence, Boston has better social mobility than Baltimore.
 ![](https://github.com/Jason112Fu/comparing-baltimore-boston-household-income-and-parent-income/blob/master/Baltimore.png) ![](https://github.com/Jason112Fu/comparing-baltimore-boston-household-income-and-parent-income/blob/master/Boston.png)
 https://www.opportunityatlas.org/
 https://github.com/Jason112Fu/comparing-baltimore-boston-household-income-and-parent-income/blob/master/Baltimore_Boston.xlsx
