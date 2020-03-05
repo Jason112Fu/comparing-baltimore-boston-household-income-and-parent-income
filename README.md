@@ -7,3 +7,7 @@ https://github.com/Jason112Fu/comparing-baltimore-boston-household-income-and-pa
 
 Method:
 .cvs files are raw data of household incomes of children with 25th, 50th, 75th percentile parent incomes seperately, and (1) are from Baltimore and (2) are from Boston. First I gave each household income data a mark of its percentile parent income. Then merged three tables into one. After that, I creat a Pivot table with row: household income, colomn: percentile parent income and value: count number of percentile parent income. Thus, by filter household income, I can know how many people with <33% household income are from each parent income groups. Same as 33%-67% and >67%. 
+
+# Python
+![](https://github.com/Jason112Fu/comparing-baltimore-boston-household-income-and-parent-income/blob/master/p1%20baltimore.png)
+![](https://github.com/Jason112Fu/comparing-baltimore-boston-household-income-and-parent-income/blob/master/p1%20boston.png)
